@@ -24,7 +24,7 @@ permite convertir
 
 
 📄 Licencia
-Este proyecto es de uso libre con fines educativos.
+Este proyecto es de uso libre con fines educativos. \n
 
 
 ✍️ Autor
