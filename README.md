@@ -16,18 +16,22 @@ permite convertir
 
 ## como ejecutar 
 
-### 1 neesitas un entorno de desarrollo Integrado
-### 2 asegurate que tengas una version del jdk de java posterior a 11
-### 3 instala la biblioteca de Gson 2.10.1 en adelante 
-### 4 descargue este repositoeio o clonelo 
-### 5 ejecutelo en el entoner de desarrollo 
+- 1 neesitas un entorno de desarrollo Integrado
+- 2 asegurate que tengas una version del jdk de java posterior a 11
+- 3 instala la biblioteca de Gson 2.10.1 en adelante 
+- 4 descargue este repositoeio o clonelo 
+- 5 ejecutelo en el entoner de desarrollo 
 
 
-#📄 Licencia
-Este proyecto es de uso libre con fines educativos. 
+
+📄Licencia
+
+*Este proyecto es de uso libre con fines educativos*
 
 
-#✍️ Autor
+✍️ Autor
+
 Desarrollado por Jhon Mayron Hinestroza Valencia
+
 Contacto: linkedin Jhon Mayron Hinestroza Valencia
 
