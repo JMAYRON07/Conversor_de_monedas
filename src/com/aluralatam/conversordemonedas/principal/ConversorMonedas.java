@@ -46,7 +46,7 @@ public class ConversorMonedas {
 
                 if (tasa != -1) {
                     double resultado = cantidad * tasa;
-                    System.out.printf("Resultado: %.2f %s = %.2f %s\n", cantidad, base, resultado, destino);
+                    System.out.printf("El valor %.2f [%s] Corresponde al valor final de =>>> %.2f [%s] \n", cantidad, base, resultado, destino);
                 } else {
                     System.out.println("No se pudo obtener la tasa de cambio.");
                 }
