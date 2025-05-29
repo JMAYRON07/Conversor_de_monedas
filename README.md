@@ -23,11 +23,11 @@ permite convertir
 ### 5 ejecutelo en el entoner de desarrollo 
 
 
-📄 Licencia
+#📄 Licencia
 Este proyecto es de uso libre con fines educativos. 
 
 
-✍️ Autor
+#✍️ Autor
 Desarrollado por Jhon Mayron Hinestroza Valencia
 Contacto: linkedin Jhon Mayron Hinestroza Valencia
 
